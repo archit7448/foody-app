@@ -1,0 +1,27 @@
+body {
+  background-color: #eff6ff;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  padding: 10px;
+  margin: 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
+ul {
+  list-style-type: none;
+}
+p {
+  font-size: 20px;
+}
+li {
+  border: 1px solid black;
+  width: 30%;
+  margin: 20px auto;
+}
+hr {
+  width: 60%;
+}
